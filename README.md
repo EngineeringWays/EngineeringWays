@@ -1,10 +1,11 @@
+
 # ⚡ EngineeringWays Data Lab: Circuit Analysis Reasoning Dataset (Free Sample)
 
-[![Premium Dataset](https://img.shields.io/badge/💎_Get_the_Master_File_(592_Items)-Click_Here-blue?style=for-the-badge)](https://payhip.com/b/GRPY0)
+[![Premium Dataset](https://img.shields.io/badge/💎_Get_the_Master_File_(592_Items)-Click_Here-blue?style=for-the-badge)](https://payhip.com/EngineeringWaysDataLab/collection/all)
 
 This is a free **50-item sample** of the EngineeringWays Circuit Analysis Reasoning Dataset. It is designed specifically for fine-tuning Large Language Models (LLMs) in advanced STEM problem-solving, featuring strict Chain-of-Thought (CoT) reasoning.
 
-**Want the complete, deduplicated 592-item master dataset?** 👉 **[Get the LoRA-Ready Master File on Payhip](https://payhip.com/b/GRPY0)**
+**Want the complete, deduplicated 592-item master dataset?** 👉 **[Get the LoRA-Ready Master File on Payhip](https://payhip.com/EngineeringWaysDataLab/collection/all)**
 
 ---
 
@@ -45,6 +46,6 @@ The dataset is in `.jsonl` format, natively ready for Hugging Face `datasets` in
 ## 📈 Upgrade to the Master File
 This 50-item sample is perfect for testing your formatting pipeline. To achieve actual performance gains in STEM reasoning, you need the full volume and variance of the master dataset. 
 
-**[🔗 Download the 592-Item Master Dataset Here](https://payhip.com/b/GRPY0)**
+**[🔗 Download the 592-Item Master Dataset Here](https://payhip.com/EngineeringWaysDataLab/collection/all)**
 
 *Produced by EngineeringWays Data Lab. High-signal data for advanced AI.*
