@@ -1,22 +1,3 @@
----
-license: mit
-task_categories:
-- text-generation
-- question-answering
-language:
-- en
-tags:
-- math
-- physics
-- engineering
-- circuit-analysis
-- chain-of-thought
-- lora
-- synthetic
-size_categories:
-- n<1K
----
-
 # ⚡ EngineeringWays Data Lab: Circuit Analysis Reasoning Dataset (Free Sample)
 
 [![Premium Dataset](https://img.shields.io/badge/💎_Get_the_Master_File_(592_Items)-Click_Here-blue?style=for-the-badge)](https://payhip.com/b/GRPY0)
